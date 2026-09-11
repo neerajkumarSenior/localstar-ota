@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.2",
-  "min_required_app_version": "1.0.0",
+  "min_required_app_version": "1.0.1",
   "bundle_url": "https://raw.githubusercontent.com/neerajkumarSenior/localstar-ota/main/main_1.0.2.lynx.bundle",
   "sha256": "70C70F926799A8274238EE45FEE33B4499B5D96B71E3B63F3DD5D6E3ABF1CE5A",
   "force_update": false
